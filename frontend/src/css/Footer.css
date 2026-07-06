@@ -1,0 +1,22 @@
+footer{
+    background:white;
+    padding:60px 20px;
+    margin-top:100px;
+    text-align:center;
+    border-top:1px solid #e5e7eb;
+}
+
+footer h2{
+    color:var(--primary);
+    margin-bottom:15px;
+}
+
+footer p{
+    color:var(--paragraph);
+    margin-bottom:10px;
+}
+
+.copyright{
+    margin-top:25px;
+    font-size:14px;
+}

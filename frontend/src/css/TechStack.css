@@ -1,0 +1,48 @@
+.tech-stack{
+    width:90%;
+    max-width:1200px;
+    margin:100px auto;
+    text-align:center;
+}
+
+.tech-stack h2{
+    font-size:42px;
+    margin-bottom:60px;
+}
+
+.tech-grid{
+
+    display:flex;
+    flex-wrap:wrap;
+
+    justify-content:center;
+
+    gap:20px;
+}
+
+.tech-card{
+
+    background:white;
+
+    padding:18px 30px;
+
+    border-radius:30px;
+
+    font-weight:bold;
+
+    color:var(--primary);
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+    transition:.3s;
+}
+
+.tech-card:hover{
+
+    background:var(--primary);
+
+    color:white;
+
+    transform:translateY(-5px);
+
+}

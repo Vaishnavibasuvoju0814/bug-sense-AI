@@ -1,0 +1,84 @@
+.history-page{
+
+    max-width:1100px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+.history-page h1{
+
+    text-align:center;
+    color:#1d4ed8;
+    margin-bottom:10px;
+}
+
+.history-subtitle{
+
+    text-align:center;
+    color:#666;
+    margin-bottom:40px;
+}
+
+.history-card{
+
+    background:white;
+    border-radius:14px;
+    padding:25px;
+    margin-bottom:25px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+    transition:.25s;
+}
+
+.history-card:hover{
+
+    transform:translateY(-4px);
+}
+
+.history-top{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:20px;
+}
+
+.history-top h3{
+
+    color:#1d4ed8;
+    margin-bottom:6px;
+}
+
+.history-error{
+
+    margin:20px 0;
+}
+
+.history-error p{
+
+    background:#f7f7f7;
+    padding:15px;
+    border-radius:8px;
+
+    white-space:pre-wrap;
+}
+
+.view-report-btn{
+
+    background:#2563eb;
+    color:white;
+
+    border:none;
+    border-radius:8px;
+
+    padding:12px 24px;
+
+    cursor:pointer;
+    font-size:16px;
+}
+
+.view-report-btn:hover{
+
+    background:#1e40af;
+}

@@ -1,0 +1,51 @@
+.feature-card{
+
+    background:var(--surface);
+
+    padding:28px;
+
+    border-radius:var(--radius);
+
+    box-shadow:var(--shadow);
+
+    border:1px solid var(--border);
+
+    transition:.3s;
+
+}
+
+.feature-card:hover{
+
+    transform:translateY(-6px);
+
+    box-shadow:0 12px 30px rgba(37,99,235,.12);
+
+}
+
+.emoji{
+
+    font-size:34px;
+
+    margin-bottom:18px;
+
+}
+
+.feature-card h3{
+
+    font-size:22px;
+
+    margin-bottom:14px;
+
+    color:var(--text);
+
+}
+
+.feature-card p{
+
+    font-size:16px;
+
+    color:var(--paragraph);
+
+    line-height:1.7;
+
+}
