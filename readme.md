@@ -104,13 +104,3 @@ BugSense AI helps developers understand programming errors by retrieving relevan
 Traditional LLMs rely only on their training data and may hallucinate or provide outdated solutions.
 
 BugSense AI uses Retrieval-Augmented Generation (RAG) to ground responses in a curated knowledge base. Relevant documentation is retrieved using semantic search and provided as context to Gemini, resulting in more accurate and explainable debugging reports.
-
-## 📸 Screenshots
-
-- Login
-
-- Signup
-- Dashboard
-- Analyze Error
-- AI Generated Report
-- Analysis History
