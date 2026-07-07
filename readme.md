@@ -1,4 +1,4 @@
-# 🐞 BugSense AI
+#  BugSense AI
 
 > AI-powered debugging assistant using Retrieval-Augmented Generation (RAG), LangChain, ChromaDB, Gemini 2.5 Flash, Django REST Framework, and React.
 
