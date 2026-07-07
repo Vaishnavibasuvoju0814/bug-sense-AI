@@ -33,7 +33,7 @@ function Report({ report }) {
         <div className="report-container">
 
             <h2 className="report-title">
-                🐞 BugSense AI Report
+                Here You go ! Fix it!
             </h2>
 
             <div className="report-header">
